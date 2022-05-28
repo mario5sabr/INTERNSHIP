@@ -1,2 +1,3 @@
-# magang
-magang di PT Bendi Nasha Niaga Industri
+# Internship
+PT Bendi Nasha Niaga Industri
+JATIS MOBILE
